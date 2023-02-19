@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        System.out.println("Hello world from Michael 35!");
+        System.out.println("Hello world from Michael 36!");
         log.error("Hello World Logger from Michael");
     }
 
